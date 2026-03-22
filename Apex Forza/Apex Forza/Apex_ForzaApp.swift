@@ -1,14 +1,14 @@
 //
-//  ApexGridApp.swift
-//  ApexGrid
+//  Apex_ForzaApp.swift
+//  Apex Forza
 //
-//  Created by Leonardo Figueiredo on 02/03/26.
+//  Created by Leonardo Figueiredo on 22/03/26.
 //
 
 import SwiftUI
 
 @main
-struct ApexGridApp: App {
+struct Apex_ForzaApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		47B3D64E2F55CEF10051B8CA /* ApexGrid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApexGrid.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		478AD6D92F70355F0027A0FC /* Apex Forza.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apex Forza.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		47B3D6502F55CEF10051B8CA /* ApexGrid */ = {
+		478AD6DB2F70355F0027A0FC /* Apex Forza */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ApexGrid;
+			path = "Apex Forza";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		47B3D64B2F55CEF10051B8CA /* Frameworks */ = {
+		478AD6D62F70355F0027A0FC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		47B3D6452F55CEF10051B8CA = {
+		478AD6D02F70355F0027A0FC = {
 			isa = PBXGroup;
 			children = (
-				47B3D6502F55CEF10051B8CA /* ApexGrid */,
-				47B3D64F2F55CEF10051B8CA /* Products */,
+				478AD6DB2F70355F0027A0FC /* Apex Forza */,
+				478AD6DA2F70355F0027A0FC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		47B3D64F2F55CEF10051B8CA /* Products */ = {
+		478AD6DA2F70355F0027A0FC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				47B3D64E2F55CEF10051B8CA /* ApexGrid.app */,
+				478AD6D92F70355F0027A0FC /* Apex Forza.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		47B3D64D2F55CEF10051B8CA /* ApexGrid */ = {
+		478AD6D82F70355F0027A0FC /* Apex Forza */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 47B3D6592F55CEF20051B8CA /* Build configuration list for PBXNativeTarget "ApexGrid" */;
+			buildConfigurationList = 478AD6E42F7035600027A0FC /* Build configuration list for PBXNativeTarget "Apex Forza" */;
 			buildPhases = (
-				47B3D64A2F55CEF10051B8CA /* Sources */,
-				47B3D64B2F55CEF10051B8CA /* Frameworks */,
-				47B3D64C2F55CEF10051B8CA /* Resources */,
+				478AD6D52F70355F0027A0FC /* Sources */,
+				478AD6D62F70355F0027A0FC /* Frameworks */,
+				478AD6D72F70355F0027A0FC /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				47B3D6502F55CEF10051B8CA /* ApexGrid */,
+				478AD6DB2F70355F0027A0FC /* Apex Forza */,
 			);
-			name = ApexGrid;
+			name = "Apex Forza";
 			packageProductDependencies = (
 			);
-			productName = ApexGrid;
-			productReference = 47B3D64E2F55CEF10051B8CA /* ApexGrid.app */;
+			productName = "Apex Forza";
+			productReference = 478AD6D92F70355F0027A0FC /* Apex Forza.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		47B3D6462F55CEF10051B8CA /* Project object */ = {
+		478AD6D12F70355F0027A0FC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2630;
 				LastUpgradeCheck = 2630;
 				TargetAttributes = {
-					47B3D64D2F55CEF10051B8CA = {
+					478AD6D82F70355F0027A0FC = {
 						CreatedOnToolsVersion = 26.3;
 					};
 				};
 			};
-			buildConfigurationList = 47B3D6492F55CEF10051B8CA /* Build configuration list for PBXProject "ApexGrid" */;
+			buildConfigurationList = 478AD6D42F70355F0027A0FC /* Build configuration list for PBXProject "Apex Forza" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 47B3D6452F55CEF10051B8CA;
+			mainGroup = 478AD6D02F70355F0027A0FC;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 47B3D64F2F55CEF10051B8CA /* Products */;
+			productRefGroup = 478AD6DA2F70355F0027A0FC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				47B3D64D2F55CEF10051B8CA /* ApexGrid */,
+				478AD6D82F70355F0027A0FC /* Apex Forza */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		47B3D64C2F55CEF10051B8CA /* Resources */ = {
+		478AD6D72F70355F0027A0FC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		47B3D64A2F55CEF10051B8CA /* Sources */ = {
+		478AD6D52F70355F0027A0FC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		47B3D6572F55CEF20051B8CA /* Debug */ = {
+		478AD6E22F7035600027A0FC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -187,7 +187,7 @@
 			};
 			name = Debug;
 		};
-		47B3D6582F55CEF20051B8CA /* Release */ = {
+		478AD6E32F7035600027A0FC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -241,7 +241,7 @@
 			};
 			name = Release;
 		};
-		47B3D65A2F55CEF20051B8CA /* Debug */ = {
+		478AD6E52F7035600027A0FC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -269,7 +269,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.redpixel.ApexGrid;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.redpixel.Apex-Forza";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -285,7 +285,7 @@
 			};
 			name = Debug;
 		};
-		47B3D65B2F55CEF20051B8CA /* Release */ = {
+		478AD6E62F7035600027A0FC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -313,7 +313,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 26.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.redpixel.ApexGrid;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.redpixel.Apex-Forza";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -332,25 +332,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		47B3D6492F55CEF10051B8CA /* Build configuration list for PBXProject "ApexGrid" */ = {
+		478AD6D42F70355F0027A0FC /* Build configuration list for PBXProject "Apex Forza" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				47B3D6572F55CEF20051B8CA /* Debug */,
-				47B3D6582F55CEF20051B8CA /* Release */,
+				478AD6E22F7035600027A0FC /* Debug */,
+				478AD6E32F7035600027A0FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		47B3D6592F55CEF20051B8CA /* Build configuration list for PBXNativeTarget "ApexGrid" */ = {
+		478AD6E42F7035600027A0FC /* Build configuration list for PBXNativeTarget "Apex Forza" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				47B3D65A2F55CEF20051B8CA /* Debug */,
-				47B3D65B2F55CEF20051B8CA /* Release */,
+				478AD6E52F7035600027A0FC /* Debug */,
+				478AD6E62F7035600027A0FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 47B3D6462F55CEF10051B8CA /* Project object */;
+	rootObject = 478AD6D12F70355F0027A0FC /* Project object */;
 }
